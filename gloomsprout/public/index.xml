@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Rhians Tutoring Website! :tada: on RP Tutoring</title>
+    <title>Welcome to Rhians Tutoring Website! :tada: on Rhian Poole Tutoring</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Welcome to Rhians Tutoring Website! :tada: on RP Tutoring</description>
+    <description>Recent content in Welcome to Rhians Tutoring Website! :tada: on Rhian Poole Tutoring</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
@@ -13,6 +13,13 @@
       <link>//localhost:1313/about/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testimonials</title>
+      <link>//localhost:1313/testimonials/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/testimonials/</guid>
       <description></description>
     </item>
   </channel>
