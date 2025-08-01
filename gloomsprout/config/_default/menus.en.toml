@@ -53,6 +53,11 @@
   pageRef = "testimonials"
   weight = 30
 
+[[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 30
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
