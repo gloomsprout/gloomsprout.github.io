@@ -5,11 +5,11 @@ description: "Homepage"
 
 <div align="left">
 
-Hi! I’m a qualified teacher and tutor with 8 years’ experience helping kids thrive—especially those with ADHD, autism, or dyslexia. I offer calm, confidence-boosting lessons online or in person (W5) and I’m DBS checked.
+Hi! My name is Rhian, and I’m a qualified teacher & tutor with 8 years’ experience helping kids thrive—especially those with ADHD, autism, or dyslexia. I offer calm, confidence-boosting lessons online or in person (W5) and I’m DBS checked.
 
 {{< figure src="tutoring.png" class="m-auto mt-6 max-w-prose" >}}
 
-### 🎓 Tutor Snapshot
+## 🎓 Tutor Snapshot
 
 - **Degree**: English & American Literature, UEA  
 - **QTS**: Yes  

@@ -1,13 +1,14 @@
 ---
-title: "Why My QTS Matters for Your Child’s Tutoring Success"
+title: "Why My QTS Boosts Your Child’s Tutoring Success"
 date: 2025-08-01
 draft: false
-description: "A page about me."
+description: "Why My QTS Boosts Private Tutoring"
 tags: ["about me", "qts"]
-showDate: true
+showDate: false
 showAuthor: true
 showReadingTime: false
 showEdit: false
+showTableOfContents: true
 ---
 
 Hello! 
