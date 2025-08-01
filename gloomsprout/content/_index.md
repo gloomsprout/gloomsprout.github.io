@@ -13,7 +13,10 @@ Hi! My name is Rhian, and I’m a qualified teacher & tutor with 8 years’ expe
 
 - **Degree**: English & American Literature, UEA  
 - **QTS**: Yes  
-- **Experience**: 8 yrs tutoring, 5 yrs teaching  
+- **Experience**: total of 12 years in education 
+- **Private Tutoring**: 8 years
+- **Qualified Teacher**: 5 years
+- **Assistant Teacher**: 3 years  
 - **SEND**: 4 yrs with ADHD, autism, dyslexia  
 - **Style**: Calm, structured, adaptable  
 - **Curriculum**: UK primary & secondary  
