@@ -1,9 +1,9 @@
 
 # Why My QTS Matters for Your Child’s Tutoring Success
 
-Hello! I’m a private tutor with **Qualified Teacher Status (QTS)**—and while I’m not standing in a school classroom every day, the training and experience that come with QTS are at the heart of everything I do when I work with your child.
+Hello! I’m proud to say that I am a private tutor with **Qualified Teacher Status (QTS)**—and while I’m not standing in a school classroom every day, the training and experience that come with QTS are at the heart of everything I do when I work with your child.
 
-You might be wondering: _“Does it really matter if my child’s tutor has QTS?”_  
+You might be wondering: _“What is QTS & Does it really matter if my child’s tutor has QTS?”_  
 Let me explain why it does—and how it benefits your child, especially if you’re looking for more than just help with homework.
 
 ---
@@ -11,6 +11,8 @@ Let me explain why it does—and how it benefits your child, especially if you�
 ## What Is QTS?
 
 QTS stands for **Qualified Teacher Status**, and it’s the professional certification that teachers in England and Wales must have to work in most state schools.
+
+When I started out as a private tutor, I enjoyed working one-on-one with students and seeing firsthand the difference personalised support can make. As time went on however, I realised that while subject knowledge is important, the ability to teach effectively requires deeper training. This is especially across a range of needs and learning styles.  That’s what led me to pursue Qualified Teacher Status (QTS). I wanted to build on my experience with a professional accreditation that would strengthen my teaching practice, give me a solid grounding in pedagogy and safeguarding, and ultimately help me support my students even better.
 
 To gain QTS, I completed **rigorous teacher training**, learned how to adapt to different learning needs, passed multiple classroom assessments, and trained in safeguarding and child development. It’s not just about knowing the subject—it’s about knowing how to teach it effectively, safely, and in a way that supports long-term progress.
 
