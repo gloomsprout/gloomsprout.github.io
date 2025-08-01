@@ -56,7 +56,7 @@
 [[main]]
   name = "Posts"
   pageRef = "posts"
-  weight = 30
+  weight = 10
 
 
 # -- Footer Menu --

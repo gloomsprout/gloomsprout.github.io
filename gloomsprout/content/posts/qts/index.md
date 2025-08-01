@@ -1,7 +1,18 @@
+---
+title: "Why My QTS Matters for Your Child’s Tutoring Success"
+date: 2025-08-01
+draft: false
+description: "A page about me."
+tags: ["about me", "qts"]
+showDate: true
+showAuthor: true
+showReadingTime: false
+showEdit: false
+---
 
-# Why My QTS Matters for Your Child’s Tutoring Success
+Hello! 
 
-Hello! I’m proud to say that I am a private tutor with **Qualified Teacher Status (QTS)**—and while I’m not standing in a school classroom every day, the training and experience that come with QTS are at the heart of everything I do when I work with your child.
+I’m proud to say that I am a private tutor with **Qualified Teacher Status (QTS)**—and while I’m not standing in a school classroom every day, the training and experience that come with QTS are at the heart of everything I do when I work with your child.
 
 You might be wondering: _“What is QTS & Does it really matter if my child’s tutor has QTS?”_  
 Let me explain why it does—and how it benefits your child, especially if you’re looking for more than just help with homework.

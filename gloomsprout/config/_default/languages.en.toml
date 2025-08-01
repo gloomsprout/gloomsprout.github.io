@@ -16,12 +16,12 @@ title = "Brain Boosters!"
 
  [params.author]
    name = "Rhian Poole"
-   email = "youremail@example.com"
+   # email = "youremail@example.com"
    image = "img/brainboosters.jpeg"
    imageQuality = 96
    headline = "Boost confidence & achieve success with personalised support!"
-#   bio = "A little bit about you"
-#   links = [
+   bio = "Hi! I’m a qualified teacher and tutor with 8 years’ experience helping kids thrive—especially those with ADHD, autism, or dyslexia. I offer calm, confidence-boosting lessons online or in person (W5) and I’m DBS checked."
+   #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
