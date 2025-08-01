@@ -15,10 +15,16 @@ showEdit: false
 
 {{< figure src="tutoring_at_table.png" class="m-auto mt-6 max-w-prose" >}}
 
-Hi, I’m Rhian. I hold a degree in English and American Literature from the University of East Anglia (2:1, 2013) and a Primary PGCE from UCL. With over eight years of tutoring experience and a background in both mainstream and SEND schools, I provide tailored support to help students build confidence and reach their full potential.
+Hi, I’m Rhian — a qualified teacher and experienced private tutor with a calm, patient, and structured approach to learning. I hold a degree in English and American Literature from the University of East Anglia (2:1, 2013) and a Primary PGCE from UCL.
 
-I’ve tutored children as young as three, supporting early years development, all the way up to GCSE students preparing for exams. I’ve worked with learners of all abilities—from those who need additional support to those aiming for top grades. My experience includes one-to-one tuition, small group sessions, and supporting students with special educational needs.
+Over the past twelve years, I’ve supported children from age 3 to 16 through one-to-one tuition, small group sessions, and classroom work. My background includes working as a teaching assistant and classroom teacher in both mainstream and SEND schools, where I developed a strong understanding of how to adapt lessons to different learning styles, needs, and personalities.
 
-I have a strong understanding of both the primary and secondary curriculum and offer tutoring in phonics, SATs preparation, entrance exams, GCSE revision, and key skills such as comprehension, reading, writing, grammar, punctuation, and a range of maths topics. I adapt my teaching to suit different learning styles, ensuring lessons are engaging, structured, and effective.
+I specialise in creating nurturing, inclusive learning environments where every student feels seen, heard, and capable—particularly those with additional needs such as ADHD, autism, and dyslexia. With four years’ experience supporting SEND learners, I know how to tailor lessons to build confidence, close learning gaps, and foster curiosity and self-belief.
 
-I’m passionate about making learning accessible and enjoyable, especially for students who need extra support. Whether it’s reinforcing core skills, preparing for exams, or building confidence, I create a positive and encouraging learning environment to help every student succeed.
+I tutor across the primary and secondary curriculum, covering phonics, SATs, entrance exams, GCSE revision, and essential skills in literacy, numeracy, reading, grammar, and more. Whether your child is catching up, preparing for exams, or simply needs a boost in confidence, I provide engaging, supportive lessons that meet them where they are.
+
+Education is about more than just academic results. It’s about building resilience, independence, and a love of learning. That’s why I work closely with parents, schools, and professionals to create a joined-up, collaborative approach that supports each child holistically.
+
+Lessons are available online or in-person (based in W5, West London), and I hold an enhanced DBS certificate.
+
+If you’re looking for a tutor who leads with empathy, clarity, and a commitment to helping every child thrive—I’d love to hear from you.
