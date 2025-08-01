@@ -19,3 +19,4 @@ Gemfile.lock
 
 gloomsprout/public/*
 gloomsprout/resources/*
+/public/*
