@@ -14,12 +14,12 @@ title = "Brain Boosters!"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
+ [params.author]
+   name = "Rhian Poole"
+   email = "youremail@example.com"
+   image = "img/brainboosters.jpeg"
+   imageQuality = 96
+   headline = "Boost confidence & achieve success with personalised support!"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
