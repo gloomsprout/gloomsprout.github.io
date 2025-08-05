@@ -5,7 +5,8 @@ draft: false
 description: "Why My QTS Boosts Private Tutoring"
 tags: ["about me", "qts"]
 showDate: false
-showAuthor: true
+authors:
+  - "rhianpoole"
 showReadingTime: false
 showEdit: false
 showTableOfContents: true

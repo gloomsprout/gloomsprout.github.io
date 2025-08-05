@@ -6,7 +6,8 @@ description: "A page about me."
 slug: "about"
 tags: ["about me", "sample"]
 showDate: true
-showAuthor: true
+authors:
+  - "rhianpooleproshot"
 showReadingTime: true
 showEdit: false
 ---

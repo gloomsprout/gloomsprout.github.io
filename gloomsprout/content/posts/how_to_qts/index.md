@@ -5,7 +5,8 @@ draft: false
 description: "Get QTS Certified in the UK"
 tags: ["about me", "qts"]
 showDate: false
-showAuthor: true
+authors:
+  - "rhianpoole"
 showReadingTime: false
 showEdit: false
 showTableOfContents: true
