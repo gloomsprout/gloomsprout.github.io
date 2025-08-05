@@ -1,29 +1,20 @@
 ---
-title: "Welcome to Rhians Tutoring Website! :tada:"
-description: "Homepage"
+# Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
+header_image: "images/cover-image.jpg"
+#
+# When set true, uses video from custom_header_video.html partial, instead of header_image
+header_use_video: false
+#
+# Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
+header_logo: "images/chef-hat.png"
+#
+# Headers are safeHTML, you can use HTML tags such as b,i,u,br
+header_headline: "Jane Doe"
+header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Consultant"
+
+# Add a 'Go back to top' item to the navigation menu
+# Title: name of navigation menu entry
+# Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
+nav_to_top_title: "Return To Top"
+nav_to_top_weight: last
 ---
-
-<div align="left">
-
-Hi! My name is Rhian, and I’m a qualified teacher & tutor with 8 years’ experience helping kids thrive—especially those with ADHD, autism, or dyslexia. I offer calm, confidence-boosting lessons online or in person (W5) and I’m DBS checked.
-
-{{< figure src="tutoring.png" class="m-auto mt-6 max-w-prose" >}}
-
-## 🎓 Tutor Snapshot
-
-- **Degree**: English & American Literature, UEA  
-- **QTS**: Yes  
-- **Experience**: total of 12 years in education 
-- **Private Tutoring**: 8 years
-- **Qualified Teacher**: 5 years
-- **Assistant Teacher**: 3 years  
-- **SEND**: 4 yrs with ADHD, autism, dyslexia  
-- **Style**: Calm, structured, adaptable  
-- **Curriculum**: UK primary & secondary  
-- **Focus**: Confidence, exams, literacy, wellbeing  
-- **DBS**: Enhanced  
-- **Lessons**: Online or W5-based  
-- **Age Range**: Primary & secondary  
-- **Collaboration**: Parents & schools welcome!  
-
-</div>

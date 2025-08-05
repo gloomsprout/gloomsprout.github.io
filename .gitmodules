@@ -1,0 +1,3 @@
+[submodule "gloomsprout/themes/hugo-scroll"]
+	path = gloomsprout/themes/hugo-scroll
+	url = https://github.com/zjedi/hugo-scroll.git
